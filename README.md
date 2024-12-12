@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://github.com/Shahriar-H/jnu-bus/blob/main/assets/images/4.png" alt="Image 1" width="150">
+  <img src="https://github.com/Shahriar-H/jnu-bus/blob/main/assets/images/3.png" alt="Image 2" width="150">
+  <img src="https://github.com/Shahriar-H/jnu-bus/blob/main/assets/images/2.png" alt="Image 3" width="150">
+  <img src="https://github.com/Shahriar-H/jnu-bus/blob/main/assets/images/1.png" alt="Image 4" width="150">
+</p>
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
